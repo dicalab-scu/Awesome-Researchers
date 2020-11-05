@@ -1,4 +1,4 @@
-# Awsome-Researchers
+# Awesome-Researchers
 
 |      Name   |        Insititute       |      Domain    |Masterpiece|
 |:------------|:--------------:|:----------------------:|:--------:|
