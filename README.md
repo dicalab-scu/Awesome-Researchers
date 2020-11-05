@@ -1,6 +1,6 @@
 # Awesome-Researchers
 
-|      Name   |        Insititute       |      Domain    |Masterpiece|
+|      Name   |        Institution       |      Domain    |Masterpiece|
 |:------------|:--------------:|:----------------------:|:--------:|
 |Louis Philippe Morency|CMU|Multi-modal, NLP||
 |Song Han|MIT|||
