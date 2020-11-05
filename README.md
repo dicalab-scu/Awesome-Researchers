@@ -7,3 +7,4 @@
 |Yonglong Tian|Google Brain||SimCLR|
 |Barret Zoph|Google Brain|NAS||
 |Quoc V. Le|Google Brain|||
+|Zhouchen Lin|PKU|Machine Learning, CV||
