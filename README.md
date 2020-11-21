@@ -9,4 +9,5 @@
 |Quoc V. Le|Google Brain|||
 |Zhouchen Lin|PKU|Machine Learning, CV||
 |Martin Jaggi|EPFL|Distributed training, NAS,Federated Learning||
+|Zhou Zhao|ZJU|||
 
