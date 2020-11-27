@@ -10,5 +10,5 @@
 |Zhouchen Lin|PKU|Machine Learning, CV||
 |Martin Jaggi|EPFL|Distributed training, NAS,Federated Learning||
 |Zhou Zhao|ZJU|||
-|Xiaofei Hw|ZJU|Manifold Learning||
+|Xiaofei He|ZJU|Manifold Learning||
 
