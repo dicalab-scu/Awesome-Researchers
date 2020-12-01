@@ -12,4 +12,4 @@
 |Zhou Zhao|ZJU|||
 |Xiaofei He|ZJU|Manifold Learning||
 |Ting Chen|Google Brain, Group of Hinton||SimCLR, SimCLRv2|
-
+|Eric P. Xing|MBZUAI, CMU|||
