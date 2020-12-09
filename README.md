@@ -14,5 +14,5 @@
 |Ting Chen|Google Brain, Group of Hinton||SimCLR, SimCLRv2|
 |Eric P. Xing|MBZUAI, CMU|||
 |Xiaodong He|JD|||
-|Yuan Gao|Tecnt AI Lab||CDDR-CNN, MTL-NAS|
+|Yuan Gao|Tecent AI Lab||CDDR-CNN, MTL-NAS|
 |Alan L. Yuille|Johns Hopkins University|||
