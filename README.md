@@ -18,3 +18,4 @@
 |Alan L. Yuille|Johns Hopkins University|||
 |Jun-yan Zhu|CMU|||
 |Zhiyuan Liu|Tsinghua University|||
+|Changqing Zhang|Tianjin University|Multi-view, Multi-modal||
