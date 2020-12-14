@@ -16,3 +16,4 @@
 |Xiaodong He|JD|||
 |Yuan Gao|Tecent AI Lab||CDDR-CNN, MTL-NAS|
 |Alan L. Yuille|Johns Hopkins University|||
+|Jun-yan Zhu|CMU|||
