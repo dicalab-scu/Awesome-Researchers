@@ -20,3 +20,4 @@
 |Zhiyuan Liu|Tsinghua University|||
 |Changqing Zhang|Tianjin University|Multi-view, Multi-modal||
 |Andrew Zisserman|Oxford, DeepMind|CV||
+|Tianqi Chen|CMU|Large Scale Machine Learning||
