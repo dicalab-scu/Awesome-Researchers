@@ -18,7 +18,8 @@
 |Alan L. Yuille|Johns Hopkins University|||
 |Jun-yan Zhu|CMU|||
 |Zhiyuan Liu|Tsinghua University|||
-|Changqing Zhang|Tianjin University|Multi-view, Multi-modal||
+|Changqing Zhang|Tianjin University|Multi-view, Multi-modal, Clustering||
 |Andrew Zisserman|Oxford, DeepMind|CV||
 |Tianqi Chen|CMU|Large Scale Machine Learning||
 |Shuicheng Yan||||
+|Junchi Yan|SJTU|||
