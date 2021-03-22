@@ -23,3 +23,4 @@
 |Tianqi Chen|CMU|Large Scale Machine Learning||
 |Shuicheng Yan||||
 |Junchi Yan|SJTU|||
+|Guojun Qi|University of Central Florida|||
