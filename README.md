@@ -24,3 +24,5 @@
 |Shuicheng Yan||||
 |Junchi Yan|SJTU|||
 |Guojun Qi|University of Central Florida|||
+|Yunhe Wang|Huawei Noah|||
+|Dachen Tao|Peking University|||
