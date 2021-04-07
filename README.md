@@ -26,3 +26,9 @@
 |Guojun Qi|University of Central Florida|||
 |Yunhe Wang|Huawei Noah|||
 |Dachen Tao|Peking University|||
+|Shiguang Shan||||
+|Wangli Ouyang|Sydeny University|||
+|Hongbin Cha|Peking University|||
+|Chen Change Loy|NTU|||
+|Jiwen Lu|Qsinghua University|||
+|Jun Zhu|Qsinghua University|||
