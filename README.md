@@ -30,5 +30,5 @@
 |Wangli Ouyang|Sydeny University|||
 |Hongbin Cha|Peking University|||
 |Chen Change Loy|NTU|||
-|Jiwen Lu|Qsinghua University|||
-|Jun Zhu|Qsinghua University|||
+|Jiwen Lu|Tsinghua University|||
+|Jun Zhu|Tsinghua University|||
