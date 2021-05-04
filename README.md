@@ -25,7 +25,7 @@
 |Junchi Yan|SJTU|||
 |Guojun Qi|University of Central Florida|||
 |Yunhe Wang|Huawei Noah|||
-|Dachen Tao|Peking University|||
+|Dachen Tao|JD|||
 |Shiguang Shan||||
 |Wangli Ouyang|Sydeny University|||
 |Hongbin Cha|Peking University|||
