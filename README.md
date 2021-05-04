@@ -32,3 +32,6 @@
 |Chen Change Loy|NTU|||
 |Jiwen Lu|Tsinghua University|||
 |Jun Zhu|Tsinghua University|||
+|William T. Freeman|MIT|||
+|Yangqing Jia|Alibaba|||
+|Phillip Isola|MIT|||
