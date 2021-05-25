@@ -35,3 +35,5 @@
 |William T. Freeman|MIT|||
 |Yangqing Jia|Alibaba|||
 |Phillip Isola|MIT|||
+|Yi Ma|UCB|||
+
