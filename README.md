@@ -36,4 +36,5 @@
 |Yangqing Jia|Alibaba|||
 |Phillip Isola|MIT|||
 |Yi Ma|UCB|||
-
+|Weiwei Liu|Wuhan University|Multi-task||
+|Yudong Tian||||
