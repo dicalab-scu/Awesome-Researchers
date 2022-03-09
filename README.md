@@ -37,4 +37,8 @@
 |Phillip Isola|MIT|||
 |Yi Ma|UCB|||
 |Weiwei Liu|Wuhan University|Multi-task||
-|Yudong Tian||||
+|Yudong Tian|MIT|Contrastive Learning|Contrastive Multi-view Coding, Supervised Contrastive Learning|
+|Ishan Misra|FAIR|Multi-task, Self-supervised Learning, Contrastive Learning||
+|Junnan Li||||
+|Xipeng Qiu||||
+|Quanshi Zhang|SJU|Interpretable Deep Learning, Casual Reasoning||
