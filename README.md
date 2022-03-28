@@ -42,3 +42,4 @@
 |Junnan Li||||
 |Xipeng Qiu||||
 |Quanshi Zhang|SJU|Interpretable Deep Learning, Casual Reasoning||
+|Daya Guo|Programing Language Pretraining, Code Intelligience|Sun Yat-sen University||
