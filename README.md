@@ -44,3 +44,4 @@
 |Quanshi Zhang|SJU|Interpretable Deep Learning, Casual Reasoning||
 |Daya Guo|Programing Language Pretraining, Code Intelligence|Sun Yat-sen University|CodeBert, GraphCodeBert, CodeXGLUE|
 |Tongliang Liu|University of Sydney|Noisy Label Learning||
+|Rene Vidal|JHU||General chair of CVPR|
