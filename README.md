@@ -45,3 +45,4 @@
 |Daya Guo|Programing Language Pretraining, Code Intelligence|Sun Yat-sen University|CodeBert, GraphCodeBert, CodeXGLUE|
 |Tongliang Liu|University of Sydney|Noisy Label Learning||
 |Rene Vidal|JHU||General chair of CVPR|
+|Alexei A. Efros|UCB||Context Encoder|
