@@ -32,6 +32,7 @@
 |Chen Change Loy|NTU|||
 |Jiwen Lu|Tsinghua University|||
 |Jun Zhu|Tsinghua University|||
+|Liang-Chieh Chen|Google|Semantic/Panotic Segmentation|CMT-DeepLab, kMax-DeepLab|
 |William T. Freeman|MIT|||
 |Yangqing Jia|Alibaba|||
 |Phillip Isola|MIT|||
@@ -47,3 +48,4 @@
 |Rene Vidal|JHU||General chair of CVPR|
 |Alexei A. Efros|UCB||Context Encoder|
 |Cynthia Rudin|Duke University|Interpretable Machine Learning||
+|Jitendra Malik|UCB|||
