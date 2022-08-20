@@ -49,3 +49,4 @@
 |Alexei A. Efros|UCB||Context Encoder|
 |Cynthia Rudin|Duke University|Interpretable Machine Learning||
 |Jitendra Malik|UCB|||
+|Pinyan LU|Shanghai University of Finance and Economics|Theory of Computing||
