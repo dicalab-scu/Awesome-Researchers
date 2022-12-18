@@ -50,3 +50,7 @@
 |Cynthia Rudin|Duke University|Interpretable Machine Learning||
 |Jitendra Malik|UCB|||
 |Pinyan LU|Shanghai University of Finance and Economics|Theory of Computing||
+|Ilya Sutskever|OpenAI||AlexNet, Tensorflow, Dropout, seq2seq|
+|‪Diederik P. Kingma|OpenAI||Adam, VAE|
+|Andrej Karpathy||Image Caption, Intrepretable AI|ImageNet|
+|Pieter Abbeel|UC Berkly|Reinforment Deep Learning||
